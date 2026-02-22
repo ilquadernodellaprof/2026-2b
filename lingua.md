@@ -1,4 +1,6 @@
-# Appunti di riflessione sulla lingua
+---
+title: Appunti di riflessione sulla lingua
+---
 
 *Qui troverete tutto il materiale relativo a questa sezione. Aggiornerò la pagina man mano che procediamo.*
 
