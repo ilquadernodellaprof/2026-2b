@@ -1,3 +1,7 @@
+---
+title: Benvenuti sulla vostra pagina!
+---
+
 Ciao fanciulli! Qui trovate il materiale che useremo durante l'anno.
 
 ## Laboratorio di scrittura
